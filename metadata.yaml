@@ -1,0 +1,28 @@
+_repo: Red-Saunders-Pets-and-Other-Critters_19265
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillips, Henry Wallace
+    alias: Phillips, H. W. (Henry Wallace)
+    birthdate: 1869
+    deathdate: 1930
+    gutenberg_agent_id: '4260'
+    url: http://www.gutenberg.org/2009/agents/4260
+description: Cover -- Contents.
+gutenberg_issued: '2006-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19265'
+  lccn: '06016511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+title: Red Saunders' Pets and Other Critters
+url: http://www.gutenberg.org/ebooks/19265
