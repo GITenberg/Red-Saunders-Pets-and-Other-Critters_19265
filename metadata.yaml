@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4260'
     url: http://www.gutenberg.org/2009/agents/4260
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19265#Red-Saunders-Pets-and-Other-Critters
 gutenberg_issued: '2006-09-13'
 gutenberg_type: Text
 identifiers:
